@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  flickr_id: 
+  flickr_owner: MyString
+  title: MyString
+  score: 
+
+two:
+  flickr_id: 
+  flickr_owner: MyString
+  title: MyString
+  score: 
